@@ -3,8 +3,8 @@ import json
 from song import *
 j=[]
 k=[]
-access_id="AKIARN6RJQ2T2T3TT2PQ"
-access_key="gSXkqjSjXfwn9BO9jNFh4wbHAFl6LIQQeOeheV3T"
+access_id="xxx" #enter AWS access_id
+access_key="xxx" #enter AWS access_key
 region="us-west-1"
 
 
