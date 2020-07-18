@@ -1,7 +1,7 @@
 # Countenance-based-boom-box
   With the world moving towards fields like Artificial Intelligence(AI) and Machine Learning(ML), our aim is to provide the users a platform through which on their current expression, music is played using Facial Expression Recognition.   
 
-            ------------------------------------------------------------------------------------------------------------------------------------------------
+            -------------------------------------------------------------------------------------------------------
 
   In today’s world, with ever increasing advancements in the field of multimedia and technology, various music players have been developed with features like fast forward, reverse, variable playback speed (seek and time compression), local playback, streaming playback with multicast streams. Although these features satisfy the  user’s basic requirements, yet the user has to face the task of manually browsing through the playlist of songs and select songs based on his current mood and behavior. Music plays a very important role in enhancing an individual’s life as it is an important medium of entertainment for music lovers and listeners and sometimes even imparts a therapeutic approach. 
  
