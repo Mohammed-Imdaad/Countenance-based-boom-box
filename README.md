@@ -3,6 +3,24 @@
 
             -------------------------------------------------------------------------------------------------------
 
+PACKAGES TO BE INSTALLED :
+
+1. Ananconda Prompt
+2. Opencv --> pip install opencv-python
+3. Boto3 library ---> pip install boto3
+4. mutagen --> pip install mutagen
+5. Pygame --> pip install pygame
+
+            -------------------------------------------------------------------------------------------------------
+AMAZON REKOGNITION SERVICE :
+            
+1. Create AWS console account ---> Free trail 
+2. Create user in IAM service ---> a. Users b.Add user c. Policies/Permissions -- i. AmazonRekognitionFullAccess ii. AmazonSNSFullAccess d. Security Credentials -- i. Access id ii.Secret Access Key (Save in a best place so that it is only one time generate key) save in excel sheet. 
+3. Add Access id and Secret Access Key in emotiondetection.py program which is given in this repository.
+
+            -------------------------------------------------------------------------------------------------------
+        
+
   In today’s world, with ever increasing advancements in the field of multimedia and technology, various music players have been developed with features like fast forward, reverse, variable playback speed (seek and time compression), local playback, streaming playback with multicast streams. Although these features satisfy the  user’s basic requirements, yet the user has to face the task of manually browsing through the playlist of songs and select songs based on his current mood and behavior. Music plays a very important role in enhancing an individual’s life as it is an important medium of entertainment for music lovers and listeners and sometimes even imparts a therapeutic approach. 
  
   Music has been proven to be an integral part of everyone’s life. It acts as a source for entertainment and also used for various medical needs as it is proven to be a Stress Reliever. There are numerous high-end music players available with the latest features of handling the volume, modulation, pitch, sound, genre, etc. Though these features are very useful for the users but sometimes it becomes quite irritating and time-consuming to manually browse through the playlist for the intended song which user wants to play based on his/her mood and emotional state. For the purpose of providing the users with the best possible and effortless pleasure of music, Facial Expression Recognition (FER) based systems have been adopted as they provide more fast, accurate and efficient results with less effort. With the world moving towards fields like Artificial Intelligence(AI) and Machine Learning(ML), our aim is to provide the users a platform through which on their current mood, music is played using Facial Expression Recognition. 
