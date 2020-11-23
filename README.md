@@ -5,7 +5,7 @@
 
 PACKAGES TO BE INSTALLED :
 
-1. Ananconda Prompt
+1. Ananconda Prompt --> https://repo.anaconda.com/archive/Anaconda3-2020.11-Windows-x86_64.exe
 2. Opencv --> pip install opencv-python
 3. Boto3 library ---> pip install boto3
 4. mutagen --> pip install mutagen
